@@ -1,2 +1,2 @@
-# Weather
-simple Weather application
+# 🌧 Weather Application 
+simple Weather application using JavaScript.
